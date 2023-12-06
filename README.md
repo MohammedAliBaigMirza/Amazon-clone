@@ -1,3 +1,3 @@
 # THis is for practise sesion
 <br>
-Author :Mirza
+Author :Mirza Ali
